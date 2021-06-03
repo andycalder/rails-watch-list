@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 * Hillel has cloned this and can now push to github for everyone to see
+* Andrew has made a commit
