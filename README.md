@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Hillel has cloned this and can now push to github for everyone to see
